@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Indre-Baleisyte
 - 👀 I’m interested in Frontend Developement and new opportunities to improve
-- 🌱 I’m currently learning CSS, exploring it's properties and abilities
-- 💞️ I’m looking to collaborate on website projects
 - 📫 How to reach me ...
 
 <!---
